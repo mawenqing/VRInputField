@@ -1,0 +1,14 @@
+Builds/
+Temp/
+Library/
+obj/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+
+.DS_Store
+.idea/
+.vs/
